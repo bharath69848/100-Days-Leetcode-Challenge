@@ -1,9 +1,9 @@
 <p>Given an integer array nums of size n, return the number with the value closest to 0 in nums. 
 If there are multiple answers, return the number with the largest value.</p>
 
-Example 1:
+<p>Example 1:
 Input: nums = [-4,-2,1,4,8]
-Output: 1
+Output: 1</p>
 
 Explanation:
 The distance from -4 to 0 is |-4| = 4.
