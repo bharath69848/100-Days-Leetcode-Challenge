@@ -1,7 +1,7 @@
 <h1>100 Days LeetCode Challenge</h1> 
 
 <h3>Welcome to my 100 Days LeetCode Challenge repository!</h3>
-<p>This is a personal initiative to solve LeetCode problems consistently over the next 100 days to improve my coding skills,<br>
+<p>This is a personal initiative to solve LeetCode problems consistently over the next 100 days to improve my <br>coding skills,
 algorithmic thinking, and problem-solving abilities.</p>
 
 <h3>Challenge Details:</h3>
