@@ -5,8 +5,8 @@
 algorithmic thinking, and problem-solving abilities.</p>
 
 <h3>Challenge Details:</h3>
-<p>Start Date: 05|08|2024<br>
-End Date: 13|11|2024</p>
+<p>Start Date: 05/08/2024<br>
+End Date: 13/11/2024</p>
 
 <h3>Goal: Solve one LeetCode problem each day for 100 consecutive days.<h3>
 
